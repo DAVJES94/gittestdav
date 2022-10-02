@@ -1,2 +1,4 @@
 dav 
 god is great
+pandas 
+numpy
